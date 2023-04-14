@@ -110,7 +110,3 @@ Here are some examples of how my app works.
 <img src="./ss/ss6.png" alt=""/>
 <br>
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/DebjitPramanick/Blockchain-Crowdfunding-App) for a list of proposed features (and known issues).
