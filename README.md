@@ -126,13 +126,4 @@ Contributions are what make the open source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-<!-- CONTACT -->
-## Contact
-
-Twitter - [@P_Debjit](https://twitter.com/P_Debjit)<br/> 
-LinkedIn - [Debjit Pramanick](https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/)<br/> 
-Project Link: [https://github.com/DebjitPramanick/Blockchain-Crowdfunding-App](https://github.com/DebjitPramanick/Blockchain-Crowdfunding-App)
-# Crowdfunding-Blockchain
+5. Open a Pull Requestxx
